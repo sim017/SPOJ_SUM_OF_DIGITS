@@ -1,0 +1,2 @@
+Dynamic Programming is a popular computer programming method which focuses on the optimisation and solving a given problem by solving its subproblems using the proper base conditions. There are various DP problems on the internet. Digit DP is one such method. In this, the solution is made by playing with the digits. This can be understood with one such problem statement. 
+The solution to the problem statement is by making use of the Digit DP technique.
